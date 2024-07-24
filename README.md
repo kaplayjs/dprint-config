@@ -1,10 +1,10 @@
-These are the [dprint formatter](https://dprint.dev) configurations for KAPLAY
-and related projects.
+These are the [dprint](https://dprint.dev) configurations for KAPLAY and related
+projects.
 
 ## Installation
 
 ```bash
-npm install --save-dev @kaplayjs/dprint-config
+npm install -D @kaplayjs/dprint-config
 ```
 
 ## Usage
