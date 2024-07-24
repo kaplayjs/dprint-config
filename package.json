@@ -1,0 +1,22 @@
+{
+  "name": "@kaplayjs/dprint-config",
+  "version": "1.0.0",
+  "description": "The dprint configurations used in KAPLAY Team",
+  "main": "index.js",
+  "dependencies": {
+    "dprint": "^0.47.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marklovers/dprint-config.git"
+  },
+  "keywords": [
+    "dprint",
+    "kaplay"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklovers/dprint-config/issues"
+  },
+  "homepage": "https://github.com/marklovers/dprint-config#readme"
+}
