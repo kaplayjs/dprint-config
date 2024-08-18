@@ -7,8 +7,7 @@
   "bin": "cli.js",
   "dependencies": {
     "commander": "^12.1.0",
-    "dprint": "^0.47.2",
-    "zx": "^8.1.4"
+    "dprint": "^0.47.2"
   },
   "repository": {
     "type": "git",
