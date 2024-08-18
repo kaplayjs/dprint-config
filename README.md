@@ -16,3 +16,9 @@ Create a `dprint.json` file in the root of your project and add the following:
   "extends": "node_modules/@kaplayjs/dprint-config/dprint.json"
 }
 ```
+
+Or
+
+```bash
+@kaplayjs/dprint-config --init
+```
